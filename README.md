@@ -1,4 +1,4 @@
 LosaWeb
 =======
 
-Este es repositorio del proyecto LosaWeb
+Repositorio del proyecto LosaWeb MC.
